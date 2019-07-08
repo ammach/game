@@ -1,1 +1,3 @@
-My solution is on the branch <mark>feature/game</mark>
+## Instructions
+
+My solution is on the `feature/game` branch
